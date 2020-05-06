@@ -13,11 +13,11 @@ Unlocking the door, and turning on appliances using a NODE MCU hosted web server
 
 2. Upload the code to your nodemcu.
 
-2. Connect power supply and servo to mentioned pin in the program
+3. Connect power supply and servo to mentioned pin in the program
 
-3.
 
-# Technologies
+
+# Technologies Used
 NodeMCU
 
 C/C++
