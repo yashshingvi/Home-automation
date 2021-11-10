@@ -18,9 +18,13 @@ Unlocking the door, and turning on appliances using a NODE MCU hosted web server
 
 
 # Technologies Used
-NodeMCU
+HTML
+
+REST API
 
 C/C++
+
+NodeMCU
 
 MG996R servo motor
 
